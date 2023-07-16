@@ -1,2 +1,3 @@
 a = "HI"
-print (a)
+b = "IH"
+print (a + b)
