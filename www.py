@@ -3,4 +3,4 @@ b = "IH"
 print (a + b)
 
 dif t2x2():
-print ("erikway")
+print ("erik")
